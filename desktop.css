@@ -301,10 +301,12 @@ height: 120px;
 /* section3 opan */
 .section3{
     margin-top: 50px;
+  
 }
 .img17{
-    height: 140px;
+    height: 260px;
     float: left;
+
   
 }
 .img17a{
@@ -313,6 +315,7 @@ height: 120px;
  
 }
 .img35{
+   margin-top: -900px;
     width: 100%;
     height: 120px;
 }
@@ -324,6 +327,75 @@ height: 120px;
     float: left;
 }
 .img19{
+
+  
     height: 80px;
+    float: left;              
+}
+.hhtt{
+    margin-left: 60px;
+}
+.img29{
+    height: 150px;
+    margin-top: -300px;
     float: left;
+}
+.bestsaler{
+
+    margin-top: 90px;
+    margin-left: 200px;
+}
+.span{
+    position: absolute;
+    margin-top: -260px;
+    margin-left: 150px;
+}
+ .dkjsdj{
+    margin-top: -300px;
+   position: absolute;
+ }
+ .best{
+    margin-left: 380px;
+padding: 10px;}
+.best:hover{
+    cursor: pointer;
+border: 2px solid red;
+border-radius: 10px;
+ }.phone{
+  padding: 10px;;
+ }
+ .phone:hover{
+    cursor: pointer;
+border: 2px solid red;
+border-radius: 10px;
+ }
+
+ .laptopa{
+    padding: 20px;;
+   }
+   .laptopa:hover{
+    cursor: pointer;
+border: 2px solid red;
+border-radius: 10px;
+ }
+.selar{
+    margin-top: -350px;
+}
+ .video:hover{
+    cursor: pointer;
+border: 2px solid red;
+border-radius: 10px;
+ }
+ .best-bio{
+  float: left;
+ }
+ .img38{
+    height: 120px;
+    float: left;
+ }
+ .bio5{
+    float: left;
+ }
+.section6{
+    margin-top: -120px;
 }

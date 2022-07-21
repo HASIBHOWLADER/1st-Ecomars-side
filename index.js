@@ -33,7 +33,7 @@ setInterval(()=>{
     let hourse=date.getHours();
     let min=date.getMinutes();
     let sec=date.getSeconds();
-    if(hourse>=12){
+    if(hourse>12){
 hourse=hourse-12;
     }if(min<10){
 min="0"+min;
